@@ -31,15 +31,15 @@ Your users should be able to:
 
 ### Screenshots
 
-![PC View](https://github.com/atif-dev/manage-landing-page/blob/main/screenshots/pc.png?raw=true)
-![Mobile view](https://github.com/atif-dev/manage-landing-page/blob/main/screenshots/mobile.png?raw=true)
+![PC View](https://github.com/atif-dev/adviceGenerator/blob/main/screenshots/mobile.png?raw=true)
+![Mobile view](https://github.com/atif-dev/adviceGenerator/blob/main/screenshots/pc.png?raw=true)
 
 ### Links
 
 - Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/manage-landing-page-using-tailwind-css-OSrwvHgo4A
-- Live Site URL: https://atif-dev.github.io/manage-landing-page/
-- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=X1_RKJt1wlSdtJDSwDHHdg
-- GitHub repo : https://github.com/atif-dev/manage-landing-page
+- Live Site URL: https://atif-dev.github.io/adviceGenerator/
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=_UgG8JB8Jdp0XNH5Kc8GDg
+- GitHub repo : https://github.com/atif-dev/adviceGenerator
 
 ## My process
 
